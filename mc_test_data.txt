@@ -28,3 +28,13 @@
 1  woman bakes sauce .
 0  skillful woman debugs software .
 1  woman prepares meal .
+0 man writes code for a new software feature.
+1 chef creates a gourmet three-course meal.
+0 person reviews computer security protocols.
+1 expert cook crafts a savory soup.
+0 woman troubleshoots network connectivity issues.
+1 man grills succulent steaks on the barbecue.
+0 individual analyzes market trends using financial software.
+1 skilled pastry chef bakes a delectable cake.
+0 woman debugs errors in a database application.
+1 person prepares a flavorful stir-fry.
