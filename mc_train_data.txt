@@ -68,3 +68,53 @@
 0  skillful woman runs program .
 1  skillful person bakes meal .
 0  person runs useful program .
+0 person debugs computer code.
+1 skillful chef prepares exquisite dish.
+0 woman troubleshoots software issues.
+1 man grills delicious barbecue.
+0 person analyzes data using statistical software.
+1 skilled baker bakes mouth-watering pastries.
+0 woman troubleshoots hardware problems.
+1 person concocts a delightful dessert.
+0 man writes code for a new software feature.
+1 chef creates a gourmet three-course meal.
+0 person reviews computer security protocols.
+1 expert cook crafts a savory soup.
+0 woman troubleshoots network connectivity issues.
+1 man grills succulent steaks on the barbecue.
+0 individual analyzes market trends using financial software.
+1 skilled pastry chef bakes a delectable cake.
+0 woman debugs errors in a database application.
+1 person prepares a flavorful stir-fry.
+0 man writes algorithms for machine learning software.
+1 chef creates an exquisite seafood dish.
+0 person troubleshoots issues in a computer network.
+1 culinary artist whips up a delightful chocolate mousse.
+0 woman analyzes data using spreadsheet software.
+1 skilled grill master barbecues savory kebabs.
+0 individual debugs software for an e-commerce platform.
+1 gourmet chef prepares a mouthwatering lobster bisque.
+0 woman troubleshoots printer problems in an office.
+1 person bakes a heavenly batch of chocolate chip cookies.
+0 man develops code for a mobile application.
+1 home cook creates a delicious homemade pizza.
+0 person troubleshoots issues in a computer server farm.
+1 master sushi chef prepares an array of delicate nigiri.
+0 woman analyzes market trends using financial analysis software.
+1 barbecue pitmaster smokes a selection of savory brisket.
+0 IT specialist debugs software for a content management system.
+1 artisan baker crafts a mouthwatering assortment of artisanal bread.
+0 woman troubleshoots technical problems with server infrastructure.
+1 chocolatier creates an irresistible selection of gourmet truffles.
+0 data analyst reviews and optimizes algorithms for machine learning software.
+1 culinary enthusiast whips up a delicious batch of gourmet cupcakes.
+0 person diagnoses issues in a computer network.
+1 molecular gastronomist innovates with a spectacular foamy dessert.
+0 woman analyzes data using advanced statistical software.
+1 grill expert sizzles up a feast of succulent lamb chops.
+0 software engineer debugs code for a cloud computing platform.
+1 patissier creates an indulgent array of French pastries.
+0 woman troubleshoots hardware glitches in computer servers.
+1 confectioner whips up a delightful assortment of macarons.
+0 algorithm specialist reviews and enhances code for an analytics tool.
+1 home cook concocts a tantalizing fusion dish with exotic spices.
