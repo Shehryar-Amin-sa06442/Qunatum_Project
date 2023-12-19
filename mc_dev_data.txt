@@ -48,3 +48,8 @@
 0 woman analyzes data using advanced statistical software.
 1 grill expert sizzles up a feast of succulent lamb chops.
 0 software engineer debugs code for a cloud computing platform.
+1 They barbecue delicious ribs .
+1 I enjoy refreshing smoothies .
+1 She grills tasty kebabs .
+1 I enjoy fresh salads .
+1 They grill flavorful sausages .
