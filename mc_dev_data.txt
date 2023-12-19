@@ -28,3 +28,23 @@
 0  woman prepares useful application .
 0  man debugs useful program .
 1  woman cooks sauce .
+0 person troubleshoots a malfunctioning computer server.
+1 skilled chef cooks up a gourmet breakfast.
+0 woman analyzes data using statistical analysis software.
+1 barbecue enthusiast grills mouthwatering ribs.
+0 individual debugs software for a database application.
+1 pastry chef creates an exquisite layer cake.
+0 woman troubleshoots technical issues with computer hardware.
+1 person prepares a delicious sushi platter.
+0 software engineer reviews and optimizes code performance.
+1 home cook bakes a delightful apple pie.
+1 artisan baker crafts a mouthwatering assortment of artisanal bread.
+0 woman troubleshoots technical problems with server infrastructure.
+1 chocolatier creates an irresistible selection of gourmet truffles.
+0 data analyst reviews and optimizes algorithms for machine learning software.
+1 culinary enthusiast whips up a delicious batch of gourmet cupcakes.
+0 person diagnoses issues in a computer network.
+1 molecular gastronomist innovates with a spectacular foamy dessert.
+0 woman analyzes data using advanced statistical software.
+1 grill expert sizzles up a feast of succulent lamb chops.
+0 software engineer debugs code for a cloud computing platform.
