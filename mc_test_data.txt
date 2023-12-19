@@ -38,3 +38,7 @@
 1 skilled pastry chef bakes a delectable cake.
 0 woman debugs errors in a database application.
 1 person prepares a flavorful stir-fry.
+0 Deserts can be harsh environments .
+0 Clouds drift across the horizon .
+1 I relish spicy salsa .
+1 Breakfast waffles are delicious .
