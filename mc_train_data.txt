@@ -118,3 +118,48 @@
 1 confectioner whips up a delightful assortment of macarons.
 0 algorithm specialist reviews and enhances code for an analytics tool.
 1 home cook concocts a tantalizing fusion dish with exotic spices.
+1 Freshly brewed coffee awakened her .
+0 Sunflowers swayed in the breeze .
+1 A sizzling steak charmed the senses .
+0 Waves crashed against the shore .
+1 Whisking eggs for a fluffy omelet .
+0 Moonlight bathed the landscape .
+1 Sweet aroma of cinnamon filled the kitchen .
+0 Shadows danced on the walls .
+1 Juicy watermelon slices refreshed everyone .
+0 Pages turned in the quiet library .
+1 Grilled cheese sandwiches melted in the pan .
+0 Stars twinkled in the midnight sky .
+1 Crispy fries sizzled in hot oil .
+1 Fragrant basil adorned the pasta .
+1 I eat apples .
+1 Pizza is tasty .
+1 She cooks pasta .
+1 Ice cream is sweet .
+1 He likes burgers .
+0 Sunsets are beautiful .
+0 Birds sing loudly .
+0 Cars drive quickly .
+0 Flowers bloom in spring .
+0 I read books .
+1 Chocolate melts easily .
+1 They bake cookies .
+1 I enjoy fresh fruit .
+0 Rain falls gently .
+0 Mountains stand tall .
+0 The wind blows softly .
+1 Popcorn pops loudly .
+1 We grill steaks .
+1 I savor spicy curry .
+0 Rivers flow steadily .
+0 Stars twinkle at night .
+1 She prepares sushi .
+1 Pancakes taste delicious .
+1 He orders a sandwich .
+1 Fruits are nutritious .
+0 Clouds float by .
+0 Trees provide shade .
+1 I drink coffee .
+1 Soup warms me .
+1 They fry chicken .
+1 Grapes are juicy .
